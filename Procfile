@@ -1,1 +1,1 @@
-web: java -jar target/todo-SNAPSHOT.jar
+web: java -jar target/todo-0.0.1-SNAPSHOT.jar
